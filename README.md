@@ -44,12 +44,12 @@ get these details on to the screen.
 
  > **HOW IT WORKS?**
 
-  - **download wampserver
+  - **download wampserver**
 
  https://liquidtelecom.dl.sourceforge.net/project/xampp/XAMPP%20Windows/5.5.38/xampp-win32-5.5.38-3-VC11-installer.exe
  
 
-- **Start Wampserver
+- **Start Wampserver**
 
  ![Screenshot (14)](https://user-images.githubusercontent.com/64776083/126075507-64243d1b-016d-45dd-91a7-bd866a02d2f4.png)
  
