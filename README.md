@@ -14,11 +14,14 @@ get these details on to the screen.
 
 ![Screenshot (405)](https://user-images.githubusercontent.com/64776083/126074977-8c8357a8-c29a-4b43-b3d9-e2e99066b064.png)
 
+
 >**RESULT**
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/64776083/126073136-a2b2e24d-cbc3-44f0-a8b9-626c34b74404.png)
 
+
 >**DOCTOR LOGIN**
+
 
 ![doctor login](https://user-images.githubusercontent.com/64776083/126074820-7b512056-fb5e-4dd6-9ee2-ce661b99b38b.jpg)
 
@@ -31,6 +34,8 @@ get these details on to the screen.
 ![admin login](https://user-images.githubusercontent.com/64776083/126074871-c74f7c4f-b70d-4405-8aff-6fac0967d92b.jpg)
 
 >**PATIENT REGISTRATION**
+
+
 ![patient registration](https://user-images.githubusercontent.com/64776083/126075026-d3ce2d25-8581-4697-9373-13162c4525e0.jpg)
 
 >**PATIENT LOGIN**
